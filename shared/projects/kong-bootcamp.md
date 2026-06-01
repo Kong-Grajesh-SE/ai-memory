@@ -9,11 +9,11 @@ Hands-on labs for Kong Konnect — from API gateway fundamentals to AI-powered a
 
 | Module | Directory | Status |
 |--------|-----------|--------|
-| API Gateway (14 plugins) | `api-gateway/` | ✅ Complete |
-| AI Gateway (10 plugins) | `ai-gateway/` | ✅ Complete |
-| Agentic AI — MCP & A2A | `mcp-a2a/` | ✅ Complete |
-| APIOps (decK mastery) | `apiops/` | ✅ Complete |
-| Developer Portal | `api-portal/` | ✅ Complete |
+| API Gateway (14 plugins) | `api-gateway/` | ✅ Complete (with diagrams & recaps) |
+| AI Gateway (10 plugins) | `ai-gateway/` | ✅ Complete (with diagrams & recaps) |
+| Agentic AI — MCP & A2A | `mcp-a2a/` | ✅ Complete (with diagrams & recaps) |
+| APIOps (decK mastery) | `apiops/` | ✅ Complete (with diagrams & recaps) |
+| Developer Portal | `api-portal/` | ✅ Complete (with diagrams & recaps) |
 
 ## Recommended Learning Order
 
