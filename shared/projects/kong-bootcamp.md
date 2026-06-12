@@ -1,7 +1,7 @@
 # Kong Konnect Bootcamp — Project Notes
 
 > Repo: [Kong-Grajesh-SE/bootcamp-repo](https://github.com/Kong-Grajesh-SE/)
-> Last updated: June 1, 2026
+> Last updated: June 12, 2026
 
 Hands-on labs for Kong Konnect — from API gateway fundamentals to AI-powered agentic workflows. Each module is self-contained with declarative decK files, Insomnia collections, and step-by-step walkthroughs.
 
@@ -14,6 +14,10 @@ Hands-on labs for Kong Konnect — from API gateway fundamentals to AI-powered a
 | Agentic AI — MCP & A2A | `mcp-a2a/` | ✅ Complete (with diagrams & recaps) |
 | APIOps (decK mastery) | `apiops/` | ✅ Complete (with diagrams & recaps) |
 | Developer Portal | `api-portal/` | ✅ Complete (with diagrams & recaps) |
+| Event Gateway | `event-gateway/` | ✅ Complete (with diagrams & recaps) |
+| Metering & Billing | `metering-billing/` | ✅ Complete (with diagrams & recaps) |
+| Context Mesh | `context-mesh/` | ✅ Complete (with diagrams & recaps) |
+| Bring Your Own Agent | `byoa/` | ✅ Complete (with diagrams & recaps) |
 
 ## Recommended Learning Order
 
